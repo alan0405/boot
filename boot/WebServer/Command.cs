@@ -1,0 +1,1 @@
+﻿using System;using System.Collections.Generic;using System.Linq;using System.Text;using System.Threading.Tasks;namespace boot.WebServer{    class Command    {        public string Name { get; set; }        public List<string> Arguments { get; set; }    }}

@@ -1,0 +1,8 @@
+D:\g\boot\boot\bin\Debug\bin\ClassLibrary1.dll
+D:\g\boot\boot\bin\Debug\bin\ClassLibrary1.pdb
+D:\g\boot\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\g\boot\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CopyComplete
+D:\g\boot\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\g\boot\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+D:\g\boot\setup\bin\ClassLibrary1.dll
+D:\g\boot\setup\bin\ClassLibrary1.pdb

@@ -1,0 +1,93 @@
+html,
+body,
+#app{
+    width:100%;
+    height:100%;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+/* test */
+.y{
+    background: yellow;
+}
+.b{
+    border: 1px solid black;
+}
+/* flex */
+.d-flex{
+    display:flex;   
+    flex-direction: row;           
+    justify-content: start;    
+    align-items: start;       
+}
+.f-row{
+    flex-direction: row;
+}
+.f-col{
+    flex-direction: column;
+}
+.jc-start{
+    justify-content: flex-start;
+}
+.jc-center{
+    justify-content: center;
+}
+.al-start{
+    align-items: flex-start;
+}
+.al-center{
+    align-items: center;
+}
+.full{
+    width:100%;
+    height:100%;
+}
+.full-fixed{
+    position: fixed;
+    top:0px;
+    left:0px;
+    right:0px;
+    bottom: 0px;
+}
+.w100{
+    width:100%;
+}
+.h100{
+    height:100%;
+}
+/* flex end */
+/* margin */
+.ml-auto{
+    margin-left: auto;
+}
+.mt-auto{
+    margin-top:auto;
+}
+.mr-auto{
+    margin-right: auto;
+}
+.mb-auto{
+    margin-bottom: auto;
+}
+/* margin end */
+/* overflow */
+.o-hidden{
+    overflow: hidden;
+}
+.ox-hidden{
+    overflow-x:hidden;
+}
+.oy-hidden{
+    overflow-y: hidden;
+}
+.o-auto{
+    overflow: auto;
+}
+.ox-auto{
+    overflow-x: auto;
+}
+.oy-auto{
+    overflow-y: auto;
+}
+/* overflow end */
